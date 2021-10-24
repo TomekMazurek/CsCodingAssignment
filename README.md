@@ -3,7 +3,7 @@
 * Clone the repository
 * open console in the project directory
 * run `mvn clean install`
-* run `java -jar target/codingChallenge-1.0-SNAPSHOT-jar-with-dependencies.jar`
+* run `java -jar target/codingAssignment-1.0-SNAPSHOT-jar-with-dependencies.jar`
 * the app will ask you to provide the path to the textfile. If no path will be provided then, by default it will
   read `logfile.txt` in `src/main/resources`. You can also replace the `logfile.txt` in this directory before running
   the app.
